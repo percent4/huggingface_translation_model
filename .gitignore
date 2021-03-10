@@ -1,0 +1,12 @@
+.idea
+*.txt
+__pycache__
+opus-mt-en-zh/pytorch_model.bin
+opus-mt-en-zh/vocab.json
+opus-mt-en-zh/*.spm
+opus-mt-zh-en/pytorch_model.bin
+opus-mt-zh-en/vocab.json
+opus-mt-zh-en/*.spm
+shap_test.py
+single_sentence_transfer.py
+translation_test.py
